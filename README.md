@@ -75,14 +75,14 @@ logger - Get log file
 
 
 ## Thanks to 
-* [Pyrogram](https://github.com/pyrogram/pyrogram)
-* Original [Repo](https://github.com/Mahesh0253/Media-Search-bot)
+* [🙏 my dev 🙏](https://t.me/Ethicall_hacker)
+* Original [Repo](https://t.me/joinchat/05jLQiMvnJc2Y2Y1)
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/subinps_bot)
+Contact Me On [Telegram](https://t.me/Ethicall_hacker)
 
-[Update Channel](https://t.me/subin_works)
+[Backup channel](https://t.me/filmyfundaa_movies)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
