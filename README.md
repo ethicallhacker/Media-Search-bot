@@ -39,9 +39,9 @@
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/subinps_bot)
+Contact Me On [Telegram](https://t.me/Ethicall_hacker)
 
-[Update Channel](https://t.me/Mo_Tech_YT)
+[Update Channel](https://t.me/filmyfundaa_movies)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
