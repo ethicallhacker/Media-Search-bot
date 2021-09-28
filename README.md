@@ -76,7 +76,7 @@ logger - Get log file
 
 ## Thanks to 
 * [🙏 my dev 🙏](https://t.me/Ethicall_hacker)
-* Original [Repo](https://t.me/joinchat/05jLQiMvnJc2Y2Y1)
+* Original [Repo source](https://t.me/joinchat/05jLQiMvnJc2Y2Y1)
 
 
 ## Support
